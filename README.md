@@ -44,7 +44,7 @@ Find small & large element in an array
 ```java
 import java.util.Arrays;
 
-public class P6A {
+public class A {
     public static void main(String args[])
     {
         int num[] = {45,23,56,12,67,23,11,3};
